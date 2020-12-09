@@ -33,8 +33,9 @@ export default class Blank extends React.Component {
             "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/hero_NOkeI8B.jpeg"
         }}
       />
+      <Text>Sample text content</Text>
     </View>
   )
 }
 
-const styles = StyleSheet.create({ View_1: {}, Image_3: {} })
+const styles = StyleSheet.create({ View_1: {}, Image_3: {}, Text_5: {} })
