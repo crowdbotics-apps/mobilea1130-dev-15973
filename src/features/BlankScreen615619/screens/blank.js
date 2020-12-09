@@ -28,7 +28,7 @@ export default class Blank extends React.Component {
 
   render = () => (
     <View>
-      <Text>Sample text content</Text>
+      <Text>Text changessss</Text>
       <Button title="Press me!" onPress={() => alert("Pressed!")} />
       <Icon name="star" />
     </View>
